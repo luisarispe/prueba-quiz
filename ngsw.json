@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1728353343439,
+  "timestamp": 1728430968863,
   "index": "https://luisarispe.github.io/prueba-quiz/index.html",
   "assetGroups": [
     {
@@ -592,15 +592,23 @@
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+      "regex": "^\\/assets\\/.*$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.css$"
     },
     {
       "positive": false,
-      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.js$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.html$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.ico$"
     }
   ],
   "navigationRequestStrategy": "performance"
