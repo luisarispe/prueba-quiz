@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1728430968863,
+  "timestamp": 1728434430561,
   "index": "https://luisarispe.github.io/prueba-quiz/index.html",
   "assetGroups": [
     {
@@ -34,10 +34,10 @@
         "https://luisarispe.github.io/prueba-quiz/fonts/inter/Inter-roman.var.woff2",
         "https://luisarispe.github.io/prueba-quiz/fonts/inter/inter.css",
         "https://luisarispe.github.io/prueba-quiz/index.html",
-        "https://luisarispe.github.io/prueba-quiz/main-63GRDMHS.js",
+        "https://luisarispe.github.io/prueba-quiz/main-34MXY5O5.js",
         "https://luisarispe.github.io/prueba-quiz/manifest.webmanifest",
         "https://luisarispe.github.io/prueba-quiz/polyfills-O5HJJVEN.js",
-        "https://luisarispe.github.io/prueba-quiz/styles-GMZ37HIZ.css",
+        "https://luisarispe.github.io/prueba-quiz/styles-F6E4K4AE.css",
         "https://luisarispe.github.io/prueba-quiz/styles/splash-screen.css"
       ],
       "patterns": []
@@ -578,11 +578,11 @@
     "https://luisarispe.github.io/prueba-quiz/images/ui/angular-material/scenes/toolbar.scene.png": "2d42f3a34c45af66d143e1e0f3a950e4cf02d88e",
     "https://luisarispe.github.io/prueba-quiz/images/ui/angular-material/scenes/tooltip.scene.png": "6e3eecded92a848c9db3db5453a9eb9fe0abc1b1",
     "https://luisarispe.github.io/prueba-quiz/images/ui/angular-material/scenes/tree.scene.png": "56b50c4e5dd9862f908a098c31b39452ba7eb601",
-    "https://luisarispe.github.io/prueba-quiz/index.html": "75a2df64ac1e5ed18f0bf90d257cc2943827cec9",
-    "https://luisarispe.github.io/prueba-quiz/main-63GRDMHS.js": "d080f8b4919b1d1c656d7b9298aa7f0dfc74329f",
+    "https://luisarispe.github.io/prueba-quiz/index.html": "684a35802eda66c550db91e75aaffbbdf09f96d7",
+    "https://luisarispe.github.io/prueba-quiz/main-34MXY5O5.js": "5b015ef5ac0811df8feddfc3be707dddf954ed09",
     "https://luisarispe.github.io/prueba-quiz/manifest.webmanifest": "543c689ca7efed251b420cc5fda180a990ed7b04",
     "https://luisarispe.github.io/prueba-quiz/polyfills-O5HJJVEN.js": "49a09d6c0567d4ccbc9c6ac6e20caa2d83635ce0",
-    "https://luisarispe.github.io/prueba-quiz/styles-GMZ37HIZ.css": "da3cb189096df1baae1df2ae522d4d8729aeca77",
+    "https://luisarispe.github.io/prueba-quiz/styles-F6E4K4AE.css": "f139f82579b4b2bad5077a523299daffd846e217",
     "https://luisarispe.github.io/prueba-quiz/styles/splash-screen.css": "0f1e3c3163599ae4068ddd126c08a42e40d8f7ad"
   },
   "navigationUrls": [
