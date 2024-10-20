@@ -1,0 +1,1 @@
+var r=(()=>{class t{static{this.type="[User] Add"}constructor(s){this.payload=s}}return t})(),o=(()=>{class t{static{this.type="[User] Add token"}constructor(s){this.token=s}}return t})(),d=(()=>{class t{static{this.type="[User] SignOut"}constructor(){}}return t})();export{r as a,o as b,d as c};
